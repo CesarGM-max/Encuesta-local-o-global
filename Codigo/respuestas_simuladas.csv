@@ -1,0 +1,21 @@
+N,Comida,Ropa,Apps,Criterio,Origen,Edad
+1,Supermercado,App internacional,Varias veces al mes,Precio,No,18 a 29
+2,Mercado o tianguis,Negocio local,Una vez al mes,Calidad,Sí,30 a 49
+3,Supermercado,Tienda departamental,Una vez al mes,Precio,A veces,18 a 29
+4,Tienda de barrio,Segunda mano,Nunca,Cercanía,Sí,50 o más
+5,En línea,App internacional,Cada semana,Marca,No,18 a 29
+6,Mercado o tianguis,Tienda departamental,Una vez al mes,Calidad,A veces,30 a 49
+7,Supermercado,App internacional,Varias veces al mes,Precio,No,18 a 29
+8,Tienda de barrio,Negocio local,Nunca,Apoyar lo local,Sí,50 o más
+9,Supermercado,Tienda departamental,Una vez al mes,Precio,A veces,30 a 49
+10,Mercado o tianguis,Segunda mano,Varias veces al mes,Precio,A veces,18 a 29
+11,En línea,App internacional,Cada semana,Marca,No,18 a 29
+12,Supermercado,Tienda departamental,Nunca,Calidad,A veces,30 a 49
+13,Mercado o tianguis,Negocio local,Una vez al mes,Apoyar lo local,Sí,18 a 29
+14,Tienda de barrio,App internacional,Varias veces al mes,Precio,No,18 a 29
+15,Supermercado,Tienda departamental,Una vez al mes,Cercanía,A veces,Menos de 18
+16,En línea,App internacional,Cada semana,Precio,No,18 a 29
+17,Mercado o tianguis,Tienda departamental,Una vez al mes,Calidad,A veces,30 a 49
+18,Supermercado,App internacional,Varias veces al mes,Marca,No,18 a 29
+19,Tienda de barrio,Segunda mano,Nunca,Cercanía,A veces,18 a 29
+20,Supermercado,Negocio local,Varias veces al mes,Precio,A veces,30 a 49
